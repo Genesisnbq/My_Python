@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389970dc-9b46-4451-952e-637724b429df" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python_code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/.ropeproject/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/.ropeproject/objectdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attempt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson04/04_字符串的格式化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson04/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UEoa9Lrm2WzQQzo3RTxi8Gy66z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -84,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574931176094</updated>
       <workItem from="1574931179422" duration="17000" />
+      <workItem from="1575042691437" duration="92000" />
     </task>
     <servers />
   </component>
@@ -95,11 +100,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_code$02_string_copy.coverage" NAME="02_string_copy Coverage Results" MODIFIED="1574931189691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson04" />
