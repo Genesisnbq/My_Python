@@ -2,55 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389970dc-9b46-4451-952e-637724b429df" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Genes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson01 基本数据类型1/01_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson01 基本数据类型1/02_int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson01 基本数据类型1/03_float_complex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson01 基本数据类型1/04_bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson01 基本数据类型1/05_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson01 基本数据类型1/06_Useful_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson02 基本数据类型2/01_useful_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson02 基本数据类型2/02_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson02 基本数据类型2/03_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson02 基本数据类型2/04_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson02 基本数据类型2/05_homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson03 基本数据类型3/01_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson03 基本数据类型3/02_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson03 基本数据类型3/03_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson03 基本数据类型3/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson03 基本数据类型3/复习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson04 基本数据类型4/01_String_encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson04 基本数据类型4/02_string_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson04 基本数据类型4/03_Bytes_and_Bytearray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson04 基本数据类型4/04_字符串的格式化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson04 基本数据类型4/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson05 控制流程/01_f.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson05 控制流程/02_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson05 控制流程/03_break_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson05 控制流程/04_for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson05 控制流程/homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01/01_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01/02_int.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01/03_float_complex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01/04_bool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01/05_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01/06_Useful_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02/01_useful_str.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02/02_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02/03_tuple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02/04_dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02/05_homework.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03/01_dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03/02_set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03/03_Operator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03/homework.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03/复习.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04/01_String_encoding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04/02_string_copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04/03_Bytes_and_Bytearray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04/04_字符串的格式化.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04/homework.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson06 函数基础/01_def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson06 函数基础/02_函数基本参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attempt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attempt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +102,9 @@
       <module name="Python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson05 控制流程" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -202,6 +159,7 @@
       <workItem from="1575400964867" duration="127000" />
       <workItem from="1575406572721" duration="41000" />
       <workItem from="1575406621859" duration="151000" />
+      <workItem from="1575680250615" duration="3000" />
     </task>
     <servers />
   </component>
@@ -269,10 +227,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="301" y="74" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1575372259957" />
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1575406623082">
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1575680250974">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1575406623082" />
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1575680250974" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_code$02_string_copy.coverage" NAME="02_string_copy Coverage Results" MODIFIED="1574931189691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson04" />
