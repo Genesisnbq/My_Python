@@ -5,7 +5,7 @@ print("")
 
 print('='*20)
 
-# 函数
+#! 函数
 
 
 def sum(a, b):
@@ -17,7 +17,7 @@ c = 1
 b = 2
 print(sum(b, c))
 
-# 函数命名不能以数字和下划线开头
+#! 函数命名不能以数字和下划线开头
 
 
 def f(list):
@@ -25,9 +25,6 @@ def f(list):
         print(True if i > 5 else False, end=' ')
     print("")
 
+
 a = [1, 3, 5, 7, 9]
 f(a)
-
-
-
-
