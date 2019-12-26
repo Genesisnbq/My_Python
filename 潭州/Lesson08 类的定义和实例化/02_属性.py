@@ -1,5 +1,4 @@
-
-#! 每个对象所特有的叫做属性
+# ! 每个对象所特有的叫做属性
 
 
 class Cat:
@@ -30,7 +29,7 @@ class Cat:
         Cat.count += 1  # todo 内部调用: 类名.类属性
 
 
-print('='*20)
+print('=' * 20)
 
 Kitty = Cat('white', 'milk')
 print(Kitty.color)
@@ -44,11 +43,11 @@ print(john.color)  # todo  外部调用  实例名.属性
 print("现在创建了 {} 只猫".format(Cat.count))
 print(Kitty.count)
 
-#! 类只能访问类属性
-#! 实例可以访问类属性和实例属性
+# ! 类只能访问类属性
+# ! 实例可以访问类属性和实例属性
 
 
-#! 私有属性
+# ! 私有属性
 """
 1. 单下划线开头, 只告诉别人这是私有属性, 外部依然可以访问更改
 2. 双下划线开头, 外部不能通过实例名(instancename), 属性名(propetyname)来访问或者更改 

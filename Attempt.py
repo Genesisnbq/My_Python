@@ -1,7 +1,10 @@
-a = {1, 2, 3, 4, 5}
-b = set()
-c = {'k1': 'v1', 'k2': 'v2'}
+x = 10
 
-print(type(a))
-print(type(b))
-print(type(c))
+
+def f():
+    global x
+    x += 1
+    print(x)
+
+
+f()
