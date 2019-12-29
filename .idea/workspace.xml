@@ -1,91 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="389970dc-9b46-4451-952e-637724b429df" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson01 基本数据类型1/01_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson01 基本数据类型1/02_int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson01 基本数据类型1/03_float_complex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson01 基本数据类型1/04_bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson01 基本数据类型1/05_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson01 基本数据类型1/06_Useful_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson02 基本数据类型2/01_useful_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson02 基本数据类型2/02_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson02 基本数据类型2/03_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson02 基本数据类型2/04_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson02 基本数据类型2/05_homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson03 基本数据类型3/01_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson03 基本数据类型3/02_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson03 基本数据类型3/03_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson03 基本数据类型3/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson03 基本数据类型3/复习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson04 基本数据类型4/01_String_encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson04 基本数据类型4/02_string_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson04 基本数据类型4/03_Bytes_and_Bytearray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson04 基本数据类型4/04_字符串的格式化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson04 基本数据类型4/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson05 控制流程/01_f.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson05 控制流程/02_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson05 控制流程/03_break_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson05 控制流程/04_for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson05 控制流程/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson06 函数基础/01_def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson06 函数基础/02_函数基本参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson06 函数基础/03_动态参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson06 函数基础/04_内置函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson06 函数基础/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson07 函数作用域与匿名函数/01_lambda(匿名函数).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson07 函数作用域与匿名函数/02_作用域.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson07 函数作用域与匿名函数/03_闭包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson07 函数作用域与匿名函数/04_递归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson07 函数作用域与匿名函数/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson08 类的定义和实例化/01_类的定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson08 类的定义和实例化/02_属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson08 类的定义和实例化/03_方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson08 类的定义和实例化/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/潭州/Lesson09 继承-多继承-魔法方法/01_ 多继承优先级.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attempt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attempt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01 基本数据类型1/01_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01 基本数据类型1/02_int.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01 基本数据类型1/03_float_complex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01 基本数据类型1/04_bool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01 基本数据类型1/05_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01 基本数据类型1/06_Useful_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02 基本数据类型2/01_useful_str.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02 基本数据类型2/02_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02 基本数据类型2/03_tuple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02 基本数据类型2/04_dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson02 基本数据类型2/05_homework.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03 基本数据类型3/01_dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03 基本数据类型3/02_set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03 基本数据类型3/03_Operator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03 基本数据类型3/homework.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03 基本数据类型3/复习.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04 基本数据类型4/01_String_encoding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04 基本数据类型4/02_string_copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04 基本数据类型4/03_Bytes_and_Bytearray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04 基本数据类型4/04_字符串的格式化.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04 基本数据类型4/homework.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson05 控制流程/01_f.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson05 控制流程/02_while.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson05 控制流程/03_break_loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson05 控制流程/04_for_loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson05 控制流程/homework.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson06 函数基础/01_def.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson06 函数基础/02_函数基本参数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson06 函数基础/03_动态参数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson06 函数基础/04_内置函数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson06 函数基础/homework.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson07 函数作用域与匿名函数/01_lambda(匿名函数).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson07 函数作用域与匿名函数/02_作用域.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson07 函数作用域与匿名函数/03_闭包.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson07 函数作用域与匿名函数/04_递归.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson07 函数作用域与匿名函数/homework.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson08 类的定义和实例化/01_类的定义.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson08 类的定义和实例化/02_属性.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson08 类的定义和实例化/03_方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson08 类的定义和实例化/homework.py" beforeDir="false" />
-    </list>
+    <list default="true" id="389970dc-9b46-4451-952e-637724b429df" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,6 +164,7 @@
       <workItem from="1577322044929" duration="44000" />
       <workItem from="1577322095178" duration="32000" />
       <workItem from="1577322163276" duration="219000" />
+      <workItem from="1577614339370" duration="8000" />
     </task>
     <servers />
   </component>
@@ -315,10 +232,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="301" y="74" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1575372259957" />
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577322380137">
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577614339589">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1577322380137" />
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1577614339589" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_code$02_string_copy.coverage" NAME="02_string_copy Coverage Results" MODIFIED="1574931189691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson04" />
