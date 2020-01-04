@@ -5,7 +5,7 @@ zodiac_name = (u'魔羯座', u'水瓶座', u'双鱼座', u'白羊座', u'金牛�
                u'巨蟹座', u'狮子座', u'处女座', u'天秤座', u'射手座')
 
 zodiac_days = ((1, 20), (2, 19), (3, 21), (4, 21), (5, 21), (6, 22),
-               (7, 23), (8, 23), (9, 23), (10, 23), (11, 23), (12, 23))
+               (7, 23), (8, 23), (9, 23), (10, 23), (11, 23), (12, 23))  # !  元组的嵌套
 
 (month, day) = (2, 15)
 
@@ -25,8 +25,16 @@ print(c)
 print(len(zodiac_name))
 
 # !  目前的类型是 filter 该对象还未被操作, 所以要强制转换为某个类型
-zodiac_day = filter((lambda x: x <= (month, day), zodiac_days))
+zodiac_day = filter(lambda x: x <= (month, day), zodiac_days)
 
-zodiac_len = len(list(zodiac_day))
+# print(zodiac_day)
 
-print(zodiac_len)
+# print(list(zodiac_day))
+
+# # ! len 数量
+# zodiac_len = len(list(zodiac_day))
+
+# print(zodiac_len)
+
+zodiac_len = len(list(zodiac_day)) % 12
+print(zodiac_name(zodiac_len))
