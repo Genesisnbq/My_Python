@@ -27,14 +27,6 @@ print(len(zodiac_name))
 # !  目前的类型是 filter 该对象还未被操作, 所以要强制转换为某个类型
 zodiac_day = filter(lambda x: x <= (month, day), zodiac_days)
 
-# print(zodiac_day)
-
-# print(list(zodiac_day))
-
-# # ! len 数量
-# zodiac_len = len(list(zodiac_day))
-
-# print(zodiac_len)
-
 zodiac_len = len(list(zodiac_day)) % 12
-print(zodiac_name(zodiac_len))
+
+print(zodiac_name[zodiac_len])
