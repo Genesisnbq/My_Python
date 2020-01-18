@@ -14,4 +14,3 @@ while(zodiac_days[n] < (int_month, int_day)):
     n += 1
 
 print(zodiac_name[n])
-
