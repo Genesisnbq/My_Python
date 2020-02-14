@@ -1,3 +1,4 @@
+
 # 如果没有按顺序使用参数, 需要使用 xx=
 print('abc', end='\n')  # 如果使用了后边的参数, 叫做关键字参数
 
@@ -19,6 +20,3 @@ def howlong(*other):
 
 howlong(234, 456, 43432)
 howlong()
-
-
-

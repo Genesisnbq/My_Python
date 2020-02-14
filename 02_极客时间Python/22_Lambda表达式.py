@@ -7,7 +7,7 @@ def true():
 
 # todo 可以把这种简单的函数, 进行简化
 
-#! ① 和 ②是相同的
+# ! ① 和 ②是相同的
 
 
 def true():
@@ -21,7 +21,7 @@ def add(x, y):
     return x + y
 
 
-#! 可以改写为 lambda x,y: x+y
+# ! 可以改写为 lambda x,y: x+y
 """
 lambda x:x<=(month,day) <----> def func1(x):
                                     return x<=(month, day)
