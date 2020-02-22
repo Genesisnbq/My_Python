@@ -10,3 +10,6 @@ if 10 - 9 > 0:
 
 # ! 语法缩进
 
+"""
+https://docs.python.org/zh-cn/3/tutorial/index.html  pytho中文文档
+"""

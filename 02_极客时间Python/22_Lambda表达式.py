@@ -39,3 +39,15 @@ adict = {'a': 'aa', 'b': 'bb'}
 
 for i in adict.items():
     func3(i)
+
+a = 10
+b = 2
+
+
+def g(a, b): return a > b  # g = lambda a,b:a<b
+
+
+if(g(a, b)):
+    print('go')
+else:
+    print('left')

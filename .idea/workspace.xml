@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389970dc-9b46-4451-952e-637724b429df" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/02_极客时间Python/25_闭包的使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_极客时间Python/26_装饰器的定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_极客时间Python/27_装饰器的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_极客时间Python/30_PEP8语法规范.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_极客时间Python/mymode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_极客时间Python/20_函数的变量作用域.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_极客时间Python/20_函数的变量作用域.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_极客时间Python/22_Lambda表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_极客时间Python/22_Lambda表达式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_极客时间Python/24_闭包的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_极客时间Python/24_闭包的定义.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_极客时间Python/27_装饰器的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_极客时间Python/27_装饰器的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_极客时间Python/29_模块的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_极客时间Python/29_模块的定义.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,6 +225,7 @@
       <workItem from="1580740529915" duration="27000" />
       <workItem from="1580740594151" duration="40000" />
       <workItem from="1581660371575" duration="100000" />
+      <workItem from="1581944056093" duration="314000" />
     </task>
     <servers />
   </component>
@@ -258,18 +257,18 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="480" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/62.0.1474.864@62.0.1474.864" timestamp="1580740546060" />
-    <state x="563" y="261" width="473" height="344" key="#com.intellij.tools.ToolEditorDialog" timestamp="1579476902048">
+    <state x="563" y="261" width="473" height="486" key="#com.intellij.tools.ToolEditorDialog" timestamp="1581944334188">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="563" y="261" width="473" height="344" key="#com.intellij.tools.ToolEditorDialog/62.0.1474.864@62.0.1474.864" timestamp="1579476902048" />
+    <state x="563" y="261" width="473" height="486" key="#com.intellij.tools.ToolEditorDialog/62.0.1474.864@62.0.1474.864" timestamp="1581944334188" />
     <state x="546" y="57" key="#homework" timestamp="1575406685445">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="546" y="57" key="#homework/62.0.1474.864@62.0.1474.864" timestamp="1575406685445" />
-    <state x="518" y="216" key="FileChooserDialogImpl" timestamp="1575372230773">
+    <state x="518" y="216" key="FileChooserDialogImpl" timestamp="1581944333784">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="518" y="216" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1575372230773" />
+    <state x="518" y="216" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1581944333784" />
     <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1581660466183">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -302,14 +301,14 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1431" height="224" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1575406772409" />
-    <state x="301" y="74" key="SettingsEditor" timestamp="1579476903434">
+    <state x="301" y="74" key="SettingsEditor" timestamp="1581944335326">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="301" y="74" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1579476903434" />
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1581660372938">
+    <state x="301" y="74" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1581944335326" />
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1581944056304">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1581660372938" />
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1581944056304" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_code$02_string_copy.coverage" NAME="02_string_copy Coverage Results" MODIFIED="1574931189691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson04" />
