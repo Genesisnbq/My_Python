@@ -1,5 +1,6 @@
 {
-    "python.pythonPath": "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe",
-    "python.formatting.provider": "autopep8"
+    "python.pythonPath": "D:\\Python382\\python.exe",
+    "python.formatting.provider": "autopep8",
+    "editor.fontLigatures": true,
     // "python.formatting.provider": "yapf"
 }

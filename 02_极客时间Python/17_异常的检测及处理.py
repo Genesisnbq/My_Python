@@ -41,7 +41,7 @@ except Exception as c:  # !捕获所有错误信息
     print("%s" % c)
 
 try:
-    raise NameError('hello_error')
+    raise NameError('hello_error')  # 手动抛出异常
 except NameError:
     print('my custom error')
 
