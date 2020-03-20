@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="389970dc-9b46-4451-952e-637724b429df" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attempt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attempt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +18,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="gGenesisnbq &lt;genesis.nbq@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UEoa9Lrm2WzQQzo3RTxi8Gy66z" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="添加" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/Python382/python.exe" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Python.39_正则表达式分组功能实例">
     <configuration name="18_函数的定义和常用操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -234,8 +237,19 @@
       <workItem from="1583593642100" duration="570000" />
       <workItem from="1583646148595" duration="105000" />
       <workItem from="1583646297064" duration="11000" />
-      <workItem from="1583777810571" duration="38000" />
+      <workItem from="1583777810571" duration="315000" />
+      <workItem from="1584165316144" duration="3000" />
+      <workItem from="1584264367081" duration="16000" />
+      <workItem from="1584559257701" duration="30000" />
     </task>
+    <task id="LOCAL-00001" summary="new python">
+      <created>1583777970275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583777970275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +270,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="new python" />
+    <option name="LAST_COMMIT_MESSAGE" value="new python" />
   </component>
   <component name="WindowStateProjectService">
     <state x="593" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577806856627">
@@ -270,14 +286,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="563" y="261" width="473" height="486" key="#com.intellij.tools.ToolEditorDialog/62.0.1474.864@62.0.1474.864" timestamp="1581944334188" />
-    <state x="546" y="57" key="#homework" timestamp="1575406685445">
+    <state x="383" y="26" key="CommitChangelistDialog2" timestamp="1583777969790">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="546" y="57" key="#homework/62.0.1474.864@62.0.1474.864" timestamp="1575406685445" />
-    <state x="383" y="26" key="CommitChangelistDialog2" timestamp="1583777885763">
-      <screen x="62" y="0" width="1474" height="864" />
-    </state>
-    <state x="383" y="26" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1583777885763" />
+    <state x="383" y="26" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1583777969790" />
     <state x="718" y="272" key="FileChooserDialogImpl" timestamp="1583123796600">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -298,34 +310,18 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1431" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1583123820952" />
-    <state width="1431" height="224" key="GridCell.Tab.1.bottom" timestamp="1575406772409">
+    <state x="195" y="56" key="SettingsEditor" timestamp="1583778104014">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1575406772409" />
-    <state width="1431" height="224" key="GridCell.Tab.1.center" timestamp="1575406772409">
+    <state x="195" y="56" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1583778104014" />
+    <state x="357" y="165" key="Vcs.Push.Dialog.v2" timestamp="1583777981558">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1575406772409" />
-    <state width="1431" height="224" key="GridCell.Tab.1.left" timestamp="1575406772409">
+    <state x="357" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1583777981558" />
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584559257587">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1575406772409" />
-    <state width="1431" height="224" key="GridCell.Tab.1.right" timestamp="1575406772409">
-      <screen x="62" y="0" width="1474" height="864" />
-    </state>
-    <state width="1431" height="224" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1575406772409" />
-    <state x="195" y="56" key="SettingsEditor" timestamp="1583777873970">
-      <screen x="62" y="0" width="1474" height="864" />
-    </state>
-    <state x="195" y="56" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1583777873970" />
-    <state x="376" y="166" key="Vcs.Push.Dialog.v2" timestamp="1583777909612">
-      <screen x="62" y="0" width="1474" height="864" />
-    </state>
-    <state x="376" y="166" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1583777909612" />
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583777810910">
-      <screen x="62" y="0" width="1474" height="864" />
-    </state>
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1583777810910" />
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1584559257587" />
     <state x="563" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583777946212">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
