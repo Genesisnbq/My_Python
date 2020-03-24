@@ -17,3 +17,9 @@ print(p.match('2020-3-14').group(1))  # 取出第一个括号包裹的部分
 
 year, month, day = p.match('2020-3-14').groups()
 print(year, month, day)
+
+
+"""
+match 匹配需要和我们的正则一一对应
+
+"""

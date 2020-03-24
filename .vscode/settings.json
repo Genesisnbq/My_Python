@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "D:\\Python382\\python.exe",
+    "python.pythonPath": "D:\\Program Files\\Python37\\python.exe",
     "python.formatting.provider": "autopep8",
     "editor.fontLigatures": true,
     // "python.formatting.provider": "yapf"
