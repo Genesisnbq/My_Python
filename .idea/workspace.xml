@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="389970dc-9b46-4451-952e-637724b429df" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Genes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Genes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="389970dc-9b46-4451-952e-637724b429df" name="默认更改列表" comment="默认更改列表">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_极客时间Python/40_正则表达式库函数match与search的区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_极客时间Python/40_正则表达式库函数match与search的区别.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Attempt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attempt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_极客时间Python/33_类的继承.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_极客时间Python/33_类的继承.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,51 +39,7 @@
     <property name="last_opened_file_path" value="D:/Python382/python.exe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.39_正则表达式分组功能实例">
-    <configuration name="18_函数的定义和常用操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_极客时间Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_极客时间Python/18_函数的定义和常用操作.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="19_函数的可变长参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_极客时间Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_极客时间Python/19_函数的可变长参数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.41_库函数sub">
     <configuration name="27_装饰器的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,13 +106,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="41_库函数sub" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_极客时间Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_极客时间Python/41_库函数sub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43_数学相关库" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_极客时间Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_极客时间Python/43_数学相关库.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.41_库函数sub" />
+        <item itemvalue="Python.43_数学相关库" />
         <item itemvalue="Python.39_正则表达式分组功能实例" />
         <item itemvalue="Python.34_类得使用&amp;自定义with语句" />
         <item itemvalue="Python.27_装饰器的使用" />
-        <item itemvalue="Python.19_函数的可变长参数" />
-        <item itemvalue="Python.18_函数的定义和常用操作" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +241,8 @@
       <workItem from="1584165316144" duration="3000" />
       <workItem from="1584264367081" duration="16000" />
       <workItem from="1584559257701" duration="30000" />
-      <workItem from="1585410687174" duration="52000" />
+      <workItem from="1585410687174" duration="1275000" />
+      <workItem from="1585414116710" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="new python">
       <created>1583777970275</created>
@@ -254,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583777970275</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="默认更改列表">
+      <created>1585410761280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585410761280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +280,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new python" />
-    <option name="LAST_COMMIT_MESSAGE" value="new python" />
+    <MESSAGE value="默认更改列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认更改列表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="593" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577806856627">
@@ -291,42 +296,42 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="563" y="261" width="473" height="486" key="#com.intellij.tools.ToolEditorDialog/62.0.1474.864@62.0.1474.864" timestamp="1581944334188" />
-    <state x="383" y="26" key="CommitChangelistDialog2" timestamp="1583777969790">
+    <state x="383" y="26" key="CommitChangelistDialog2" timestamp="1585410760801">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="383" y="26" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1583777969790" />
+    <state x="383" y="26" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1585410760801" />
     <state x="718" y="272" key="FileChooserDialogImpl" timestamp="1583123796600">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="718" y="272" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1583123796600" />
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1583123820952">
+    <state width="1433" height="224" key="GridCell.Tab.0.bottom" timestamp="1585412777984">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1583123820952" />
-    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1583123820952">
+    <state width="1433" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585412777984" />
+    <state width="1433" height="224" key="GridCell.Tab.0.center" timestamp="1585412777984">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1583123820952" />
-    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1583123820952">
+    <state width="1433" height="224" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1585412777984" />
+    <state width="1433" height="224" key="GridCell.Tab.0.left" timestamp="1585412777984">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1583123820952" />
-    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1583123820952">
+    <state width="1433" height="224" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1585412777984" />
+    <state width="1433" height="224" key="GridCell.Tab.0.right" timestamp="1585412777984">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1583123820952" />
-    <state x="195" y="56" key="SettingsEditor" timestamp="1585410719409">
+    <state width="1433" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1585412777984" />
+    <state x="195" y="56" key="SettingsEditor" timestamp="1585414136002">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="195" y="56" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1585410719409" />
-    <state x="357" y="165" key="Vcs.Push.Dialog.v2" timestamp="1583777981558">
+    <state x="195" y="56" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1585414136002" />
+    <state x="357" y="165" key="Vcs.Push.Dialog.v2" timestamp="1585410905319">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="357" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1583777981558" />
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585410687996">
+    <state x="357" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1585410905319" />
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585414116573">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1585410687996" />
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1585414116573" />
     <state x="563" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583777946212">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -340,8 +345,10 @@
     <SUITE FILE_PATH="coverage/Python_code$01_Python.coverage" NAME="01_Python程序的书写规范 Coverage Results" MODIFIED="1577807070842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_极客时间Python" />
     <SUITE FILE_PATH="coverage/Python_code$19_.coverage" NAME="19_函数的可变长参数 Coverage Results" MODIFIED="1579185256109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_极客时间Python" />
     <SUITE FILE_PATH="coverage/Python_code$39_.coverage" NAME="39_正则表达式分组功能实例 Coverage Results" MODIFIED="1583123818548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_极客时间Python" />
+    <SUITE FILE_PATH="coverage/Python_code$43_.coverage" NAME="43_数学相关库 Coverage Results" MODIFIED="1585410955199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_极客时间Python" />
     <SUITE FILE_PATH="coverage/Python_code$04_for_loop.coverage" NAME="04_for_loop Coverage Results" MODIFIED="1575401083550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson05 控制流程" />
     <SUITE FILE_PATH="coverage/Python_code$Attempt.coverage" NAME="Attempt Coverage Results" MODIFIED="1577953789605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_code$41_sub.coverage" NAME="41_库函数sub Coverage Results" MODIFIED="1585411112455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_极客时间Python" />
     <SUITE FILE_PATH="coverage/Python_code$27_.coverage" NAME="27_装饰器的使用 Coverage Results" MODIFIED="1582460387596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_极客时间Python" />
     <SUITE FILE_PATH="coverage/Python_code$02_while.coverage" NAME="02_while Coverage Results" MODIFIED="1575372274438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson05" />
     <SUITE FILE_PATH="coverage/Python_code$02_string_copy.coverage" NAME="02_string_copy Coverage Results" MODIFIED="1574931189691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson04" />
