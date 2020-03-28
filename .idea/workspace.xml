@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389970dc-9b46-4451-952e-637724b429df" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Genes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Genes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_极客时间Python/40_正则表达式库函数match与search的区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_极客时间Python/40_正则表达式库函数match与search的区别.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Attempt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attempt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/Python382/python.exe" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.39_正则表达式分组功能实例">
     <configuration name="18_函数的定义和常用操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -241,6 +245,7 @@
       <workItem from="1584165316144" duration="3000" />
       <workItem from="1584264367081" duration="16000" />
       <workItem from="1584559257701" duration="30000" />
+      <workItem from="1585410687174" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="new python">
       <created>1583777970275</created>
@@ -310,18 +315,18 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1431" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1583123820952" />
-    <state x="195" y="56" key="SettingsEditor" timestamp="1583778104014">
+    <state x="195" y="56" key="SettingsEditor" timestamp="1585410719409">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="195" y="56" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1583778104014" />
+    <state x="195" y="56" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1585410719409" />
     <state x="357" y="165" key="Vcs.Push.Dialog.v2" timestamp="1583777981558">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="357" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1583777981558" />
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584559257587">
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585410687996">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1584559257587" />
+    <state x="498" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1585410687996" />
     <state x="563" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583777946212">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
