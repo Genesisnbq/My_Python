@@ -1,6 +1,8 @@
-import numpy as np
+# from pandas import Serise,DateFrame
+import pandas as pd
 
-arr1 = np.array([2,3,4])  # 已经经过了numpy的封装, 效率上高于 python自带的list
+obj = pd.Series([4, 5, 6, -7])
 
-print(arr1)
-print(arr1.dtype) # 32位
+print(obj)  # 自动添加索引
+print(obj.index)
+print(obj.values)
