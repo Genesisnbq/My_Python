@@ -37,3 +37,5 @@ print(data)
 print('-'*40)
 data.fillna(0, inplace=True)  # 本身修改
 print(data)
+
+# 数据预处理和数据清理非常关键的步骤
