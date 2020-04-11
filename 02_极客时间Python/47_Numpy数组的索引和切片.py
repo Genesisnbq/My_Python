@@ -1,6 +1,5 @@
 import numpy as np
 
-
 print(np.arange(10))  # 0-9
 
 a = np.arange(10)

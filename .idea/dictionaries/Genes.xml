@@ -2,10 +2,16 @@
   <dictionary name="Genes">
     <words>
       <w>aaaanbbb</w>
+      <w>abccccccd</w>
+      <w>abcccccd</w>
+      <w>distplot</w>
       <w>frange</w>
       <w>gogogogo</w>
       <w>howlong</w>
       <w>newtime</w>
+      <w>pyspider</w>
+      <w>sdata</w>
+      <w>serise</w>
       <w>testwith</w>
     </words>
   </dictionary>

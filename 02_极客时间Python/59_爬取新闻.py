@@ -23,7 +23,7 @@ def craw2(url):
     for title_href in soup.find_all('div', class_='news_type_block'):
         print([title.get('title')
                for title in title_href.find_all('a') if title.get('title')])
-
+f
 # craw2(url)
 
 
