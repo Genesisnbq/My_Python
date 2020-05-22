@@ -1,4 +1,3 @@
-
 # ! 函数内外部变量刚好是同名的, 就会出现问题
 
 var1 = 123
@@ -19,6 +18,7 @@ def function():
     global var1
     var1 = 999
     print(var1)
+
 
 function()
 print(var1)

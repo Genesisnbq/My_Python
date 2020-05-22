@@ -5,8 +5,8 @@
 """
 
 
-class Monster():
-    '定义怪物类'
+class Monster:
+    """定义怪物类"""
 
     def __init__(self, hp=100):
         self.hp = hp
@@ -19,14 +19,14 @@ class Monster():
 
 
 class Animals(Monster):
-    '普通怪物'
+    """普通怪物"""
 
     def __init__(self, hp=10):
         super().__init__(hp)
 
 
 class Boss(Monster):
-    'Boss类怪物'
+    """Boss类怪物"""
 
     def __init__(self, hp=1000):
         super().__init__(hp)
@@ -46,10 +46,9 @@ print(a2.hp)
 a2.run()
 
 """
-super 父类当中已经初始化了, 字类中就不需要初始化了
+super 父类当中已经初始化了, 子类中就不需要初始化了
 super().__init__(hp)
 """
-
 
 a3 = Boss(800)
 a1.whoami()
@@ -81,4 +80,3 @@ print(type(list))
 # python3 所有得对象都继承一个叫 object(对象)类 面向对象编程
 # 面向对象: 封装(拒绝外部访问) 继承(字类覆盖父类) 
 # 类无法直接进行引用, 需要进行实例化 a1 = Monster(100)
- 

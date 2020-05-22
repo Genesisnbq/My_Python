@@ -1,9 +1,17 @@
-# from pandas import Serise,DateFrame
-import pandas as pd
+from urllib import request
 
-obj = pd.Series([4, 5, 6, -7])
 
-print(obj)  # 自动添加索引
-print(obj.index)
-print(obj.values)  # pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspider
+class Spider():
+    url = '[图片]https://www.douyu.com/g_LOL'
 
+    def __fetch_content(self):
+        r = request.urlopen(Spider.url)
+        htmls = r.read()
+        a = 1
+        print(a);
+
+    def go(self):
+        self.__fetch_content()
+
+spider = Spider()  # 实例化
+spider.go()
